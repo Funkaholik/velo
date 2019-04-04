@@ -1,6 +1,6 @@
 $(function() {
 
-  var anchors = ['intro', 'service', 'pricing','skills','experience','contact'],
+  var anchors = ['intro', 'service', 'pricing','skills','experience','contact', 'zone'],
   target = $('.fading'),
   zenith, nadir, location, pilot,
   modern = window.requestAnimationFrame;
